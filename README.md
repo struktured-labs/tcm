@@ -2,6 +2,17 @@
 
 A beautiful static landing page for TCM Health, a Traditional Chinese Medicine wellness app coming soon to Android.
 
+## 🚀 Quick Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/struktured-labs/tcm)
+
+**Instant deployment options:**
+- **Drag & Drop**: Visit [Netlify Drop](https://app.netlify.com/drop) and drag the project folder
+- **Download Package**: Use `tcm-health-website.zip` for manual upload to any host
+- **Full Guide**: See [DEPLOYMENT.md](DEPLOYMENT.md) for all deployment options
+
+**Live in under 60 seconds!**
+
 ## Features
 
 - **Modern Design**: Clean, responsive design with TCM-inspired aesthetics
