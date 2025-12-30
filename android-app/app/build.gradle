@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.application'
-    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-android'
 }
 
 android {
@@ -33,6 +33,7 @@ android {
 
     kotlinOptions {
         jvmTarget = '17'
+        freeCompilerArgs += ['-Xjvm-default=all']
     }
 
     buildFeatures {
@@ -40,7 +41,7 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = '1.5.4'
+        kotlinCompilerExtensionVersion = '1.5.3'
     }
 
     packaging {
