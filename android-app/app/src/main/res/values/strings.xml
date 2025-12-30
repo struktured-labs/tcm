@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TCM Health</string>
+    <string name="welcome_title">Welcome to TCM Health</string>
+    <string name="welcome_subtitle">Ancient Wisdom, Modern Technology</string>
+    <string name="welcome_description">Discover the power of Traditional Chinese Medicine with personalized health insights and holistic practices.</string>
+    <string name="get_started">Get Started</string>
+    <string name="quiz_title">Discover Your Constitution</string>
+    <string name="dashboard_title">Your Health Dashboard</string>
+    <string name="recommendations_title">Today\'s Recommendations</string>
+    <string name="food_tracker_title">Food Tracker</string>
+    <string name="herbs_title">Herbal Remedies</string>
+</resources>
